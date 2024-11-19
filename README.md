@@ -32,7 +32,7 @@ This project demonstrates API automation testing for the ReqRes API: (https://re
 ---
 
 ## **Project Structure**
-plaintext
+Project Root restassured-project
 src
 ├── main
 │   └── java
